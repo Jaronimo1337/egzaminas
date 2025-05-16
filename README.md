@@ -7,12 +7,6 @@ User-driven marketplace platform "Just Do It"
 - [Abstract](#abstract)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API endpoints](#api-endpoints)
-- [Frontend Components](#frontend-components)
-- [Database Structure](#database-structure)
-- [Technologies Used](#technologies-used)
-- [Testing Plan](#testing-plan)
-- [License](#license)
 
 ## Abstract
 
