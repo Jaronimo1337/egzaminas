@@ -1,6 +1,6 @@
-# TECHIN fullstack (PERN) project
+# TECHIN fullstack exam project
 
-User-driven marketplace platform "Just Do It"
+User-driven marketplace platform.
 
 ## Table of contents
 
