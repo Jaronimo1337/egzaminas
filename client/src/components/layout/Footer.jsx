@@ -6,7 +6,7 @@ const Footer = () => (
                     Reserved.
                 </span>
                 <a
-                    href="https://github.com/pavelgusev431/Pavasario-projektas"
+                    href="https://github.com/Jaronimo1337/egzaminas"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center mt-4 md:mt-0 hover:text-gray-900 dark:hover:text-white"
